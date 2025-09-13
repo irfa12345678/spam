@@ -1,6 +1,6 @@
 # 🚀 Email Spam Sender (Safe Test Version)
 
-![banner](https://i.top4top.io/p_3543r2yty1.jpg)
+![banner](https://h.top4top.io/p_35433vwvf0.jpg)
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-IrfaFitrio-black?logo=github)](https://github.com/irfa12345678)
@@ -37,7 +37,11 @@
 pkg install python3
 pkg install git
 pkg install python-pip
-pip install colorama
-git clone https://github.com/irfa12345678/email-spam-safe
-cd email-spam-safe
-python sender.py
+pip install coloram
+pkg install python-pip
+pip install setuptools
+pip install cython pycryptodome
+pip install tqdm
+git clone https://github.com/irfa12345678/email
+cd email
+python sender.pyc
