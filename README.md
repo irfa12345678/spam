@@ -44,4 +44,4 @@ pip install cython pycryptodome
 pip install tqdm
 git clone https://github.com/irfa12345678/spam
 cd spam
-python sender.pyc
+python hal.pyc
