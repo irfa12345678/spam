@@ -42,6 +42,6 @@ pkg install python-pip
 pip install setuptools
 pip install cython pycryptodome
 pip install tqdm
-git clone https://github.com/irfa12345678/email
-cd email
+git clone https://github.com/irfa12345678/spam
+cd spam
 python sender.pyc
